@@ -1,0 +1,23 @@
+nrows         20
+ncols          7
+cityno      City                   Population Latitude   Longitude  Language     language_code
+1        Kakinada                1284182    16.9891    82.2475   Telugu        5 
+2        Coimbature              1601438    11.0168    76.9558   Tamil         4
+3        Ludhiana                1613878    30.9010    75.8573   Hindi         1
+4        Ghaziabad               1666703    28.6692    77.4538   Hindi         1
+5        Patna                   1683200    25.5941    85.1376   Hindi         1
+6        Bhopal                  1798218    23.2599    77.4126   Hindi         1
+7        Thane                   1818872    19.2183    72.9781   Marathi       3
+8        Indore                  1960631    22.7196    75.8577   Hindi         1
+9        Visakapatnam            2035922    17.6868    83.2185   Telugu        5
+10       Nagpur                  2405665    21.1458    79.0882   Marathi       3
+11       Kanpur                  2765348    26.4499    80.3319   Hindi         1
+12       Lucknow                 2817105    26.8467    80.9462   Hindi         1
+13       Jaipur                  3046163    26.9124    75.7873   Rajasthani    6
+14       Pune                    3124458    18.5204    73.8567   Marathi       3
+15       Kolkata                 4467797    22.5726    88.3639   Bengali       2
+16       Chennai                 4646694    13.0827    80.2707   Tamil         4
+17       Hyderabad               6993262    17.3850    78.4867   Telugu        5
+18       Banglore                8443675    12.9716    77.5946   Kannada       7
+19       Delhi                  11034555    28.7041    77.1025   Hindi         1
+20       Mumbai                 12442373    19.0760    72.8777   Marathi       3

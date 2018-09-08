@@ -1,0 +1,6 @@
+nrows         3
+ncols          7
+cityno      City                   Population Latitude   Longitude  Language     language_code
+1        Kakinada                1284182    16.9891    82.2475   Telugu        5 
+2        Coimbature              1601438    11.0168    76.9558   Tamil         4
+3        Ludhiana                1613878    30.9010    75.8573   Hindi         1
