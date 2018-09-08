@@ -1,3 +1,5 @@
+# A Simple Library for modelling Network Optimization problems 
+
 For complete documentation please refer the Network_Flow_Module_Documentation pdf present in the doc folder.
 
 This module has been tested on ubuntu 18.04 operating system using the following compilers:
